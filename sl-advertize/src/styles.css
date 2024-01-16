@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+.container{
+  /*background-color: #A155B9 !important;*/
+
+}
+
+.main-body{
+  max-width: 1000px;
+  margin: auto;
+  /*background-color: #FFA4B6;*/
+  /*background-image: linear-gradient(to bottom right, #A155B9,#FFA4B6);*/
+}
+/*body{*/
+/*  background-image: linear-gradient(to bottom right, #A155B9,#FFA4B6);*/
+/*}*/
+body{
+  background-image: linear-gradient(to bottom right,#ffffff,#FFA4B6);
+}
+.pagination{
+--bs-pagination-color: #ff1179 !important;
+}
+.page-item.active{
+  background-color: #A155B9 !important;
+}
+.btn-purple{
+  background-color: #A155B9;
+}
+.btn-pink-1{
+  background-color: #ff1179;
+}
+.btn-pink-2{
+  background-color: #F765A3;
+}
+.btn-pink-3{
+  background-color: #FFA4B6;
+}
